@@ -26,7 +26,7 @@ public class MainStructures{
         switch (c.ToUpper())
         {
             case ("A"):
-                Console.WriteLine("You entered A");
+                Console.WriteLine("You ented A");
                 break;
             case "B":
                 Console.WriteLine("You enter B");
