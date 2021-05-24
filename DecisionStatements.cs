@@ -33,7 +33,7 @@ public class MainStructures{
                 break;
                 
             default:
-                Console.WriteLine("No match found");
+                Console.WriteLine("No match foud");
                 break;
         }
 

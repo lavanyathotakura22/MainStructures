@@ -39,7 +39,7 @@ namespace MainStructures
                     goto case "A";
 
                 default:
-                    Console.WriteLine("No modification");
+                    Console.WriteLine("No modifion");
                     break;
             }
 
