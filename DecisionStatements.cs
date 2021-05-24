@@ -29,7 +29,7 @@ public class MainStructures{
                 Console.WriteLine("You entered A");
                 break;
             case "B":
-                Console.WriteLine("You entered B");
+                Console.WriteLine("You enter B");
                 break;
                 
             default:

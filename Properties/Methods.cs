@@ -7,7 +7,6 @@ namespace MainStructures {
             Console.WriteLine(s);
       }
       public int factorial(int num) {
-         /* local variable declaration */
          int result;
          if (num == 1) {
             return 1;
