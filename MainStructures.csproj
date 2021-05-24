@@ -33,8 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>
-    </StartupObject>
+    <StartupObject>MainStructures.Arrays</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,7 +48,6 @@
   <ItemGroup>
     <Compile Include="Arrays.cs" />
     <Compile Include="Constructor.cs" />
-    <Compile Include="Constructor2.cs" />
     <Compile Include="MyStruct2.cs" />
     <Compile Include="Propertie2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
