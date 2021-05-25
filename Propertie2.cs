@@ -4,7 +4,7 @@ namespace MainStructures
     class Student
     {
         private string code = "N.A";
-        private string name = "not known";
+        private string name = "not";
         private int age = 20;
         public string Code
         {

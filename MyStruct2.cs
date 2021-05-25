@@ -15,7 +15,7 @@ namespace MainStructures
 
         public void Display()
         {
-            Console.WriteLine("method in structure: " + i);
+            Console.WriteLine("method in stture: " + i);
             //Console.WriteLine(m);
         }
         static void Main()

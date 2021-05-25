@@ -1,3 +1,4 @@
+
 using System;
 namespace MainStructures
 {
@@ -46,3 +47,4 @@ class Test
     }
 }}
 
+>>>>>>> 8e732eb9fdc91d2fec879fca83818939707b6f16

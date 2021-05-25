@@ -1,8 +1,7 @@
 using System;
 using System.Collections;
 namespace MainStructures{
-public class ArrayLists
-{
+public class ArrayLists { 
     
     public static void Main()
     {
