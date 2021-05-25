@@ -4,7 +4,7 @@ public class Operators
 {
     public static void ArithmeticOp()
     {
-        System.Console.WriteLine("Enter the values of \"a\" and \"b\" :");
+        System.Console.WriteLine("Enter the values \"a\" and \"b\" :");
         int a=int.Parse(Console.ReadLine());
         int b=int.Parse(Console.ReadLine());
         System.Console.WriteLine("\t Arithmetic Operators in C# ");
