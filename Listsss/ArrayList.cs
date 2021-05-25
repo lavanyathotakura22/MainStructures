@@ -7,7 +7,7 @@ public class ArrayLists {
     {
         ArrayList a = new ArrayList(); 
         a.Add(20);
-        a.Add("lavanya");
+        a.Add("lava");
         a.Add(2.5);
         a.Add(true);
         a.Add(null);
