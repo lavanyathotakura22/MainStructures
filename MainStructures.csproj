@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Listsss\ArrayList.cs" />
     <Compile Include="Listsss\Lists.cs" />
+    <Compile Include="Loops.cs" />
     <Compile Include="MyStruct2.cs" />
     <Compile Include="Propertie2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
