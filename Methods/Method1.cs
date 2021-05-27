@@ -32,7 +32,7 @@ namespace MainStructures {
          int ret = n.FindMax(a, b);
          n.MyMethod1();
          Console.WriteLine("Max value is : {0}", ret );
-         Console.WriteLine("Factorial of 8 is : {0}", n.factorial(8));
+         Console.WriteLine("Factorial of 8 is : {0}", n.factorial(5));
          Console.ReadLine();
       }
    }

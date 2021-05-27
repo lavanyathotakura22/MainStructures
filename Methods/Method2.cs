@@ -23,7 +23,7 @@ namespace methodsss
         {
             var person1 = new Person();
             Console.WriteLine(person1.Name);
-            var person2 = new Person("Sarah Jones");
+            var person2 = new Person("Sarah");
             Console.WriteLine(person2.Name);
             Console.WriteLine(person2);
         }

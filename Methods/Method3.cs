@@ -11,7 +11,7 @@ class Mainmethod
         return value;
         
     }
-    public void Method2(string message)     //non retrun type parameterd
+    public void Method2(string message)     //non retrun type parameter
     {
        Console.WriteLine("non retrun type with parameterized :"+message);
     }
