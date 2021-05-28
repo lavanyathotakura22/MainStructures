@@ -1,6 +1,5 @@
 using System;
-namespace MainStructures
-{
+namespace MainStructures{
     public class Car{
         private string _CarName = "Honda City";
         private string _CarColur = "Black";
