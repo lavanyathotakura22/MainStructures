@@ -1,5 +1,6 @@
 using System;
-namespace MainStructures {
+namespace MainStructures
+ {
     class A 
     {
    
