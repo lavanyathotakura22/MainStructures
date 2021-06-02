@@ -1,6 +1,7 @@
 using System;  
 using System.Collections.Generic;  
-using System.Linq;  
+using System.Linq;
+namespace Mainstructures{ 
 class Dog  
 {  
    public string Name { get; set; }  
@@ -39,4 +40,4 @@ class demo{
           var doubledNumbers = doubleThem(numbers);
           Console.WriteLine($"The set {numbers} doubled: {doubledNumbers}");*/
    }  
-}  
+}  }
