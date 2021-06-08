@@ -54,7 +54,7 @@ namespace MainStructures
             
             A a1=delegate(int m,int n)
             {
-                Console.WriteLine(m*n+ "   annonymous value");
+                Console.WriteLine(m*n+ "     annonymous value");
             };a1(7,6);
         }
     }
